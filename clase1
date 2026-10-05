@@ -5,3 +5,6 @@ una aplicación se compone por 5 elementos:
 3. Base de datos
 4. Interfaz de usuario
 5. Servicios externos
+
+##1.Código
+Contiene los procedimientos que se ejecutan en la aplicación 
