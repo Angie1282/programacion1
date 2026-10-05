@@ -8,3 +8,6 @@ una aplicación se compone por 5 elementos:
 
 ##1.Código
 Contiene los procedimientos que describen el comportamiento de la aplicación 
+
+##2 Servidor
+Máquina física o virtual donde se aloja la aplicación ejecutada
