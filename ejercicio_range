@@ -1,0 +1,11 @@
+# Ejercicio con append
+
+frutas = []
+
+frutas.append("mango")
+
+frutas.append("fresa")
+
+frutas.append("piña")
+
+print(frutas)
