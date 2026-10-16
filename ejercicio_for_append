@@ -1,0 +1,14 @@
+# Ejercicio con for y append
+
+ciudades = []
+
+print("Dime el nombre de 3 ciudades que te gustaría visitar")
+
+for n in range(1, 4):
+    ciudad = input(f"CIUDAD {n}: ")
+    ciudades.append(ciudad)
+
+print("Quieres visitar:", ciudades)
+
+
+    
